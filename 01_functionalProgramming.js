@@ -9,9 +9,11 @@ class Person {
   }
 }
 
+
+
 function happyFunkyBirthday(Obj) {
-  let newObj = {...Obj}
-  newObj.age ++;
+  let newObj = { ...Obj };
+  newObj.age++;
   return newObj;
 }
 
