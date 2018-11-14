@@ -1,9 +1,6 @@
 const fetch = require('node-fetch');
 const https = require('https');
-
-
 const url = 'https://jsonplaceholder.typicode.com/users';
-
 
 function fetchData() {
   fetch(url)
