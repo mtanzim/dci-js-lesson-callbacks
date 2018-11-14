@@ -10,8 +10,11 @@ mtanzim@gmail.com
 
 Please find notes [here]().
 
+## Exercises
+
+- [Simple API Example with callbacks](https://mtanzim.github.io/dci-js-lesson-callbacks/)
+  - [API Link](https://jsonplaceholder.typicode.com/users)
+
 ## Further Reading
 
 Below links contain additional information.
-
-- [React Weather App Example](https://github.com/mtanzim/react-weather-app)
