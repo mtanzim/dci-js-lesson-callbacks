@@ -30,7 +30,7 @@ function fetchWithCallback(callback) {
 
 const callback = function () {
   console.log('\nData fetch was completed with the https module!\n');
-}
+};
 
 Number(process.argv[2]) === 1 ?
   fetchData() :
