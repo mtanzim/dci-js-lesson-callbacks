@@ -6,8 +6,6 @@ function exampleA() {
     console.log(`I was given ${a} and ${b}`);
   }
   
-  
-  
   console.log('I will speak first :O');
   console.log('I will speak first too :O');
   console.log('I will speak first TOO :O');
@@ -32,7 +30,7 @@ function exampleB(isOrdered) {
   }
 
   // what determines the order of this?
-  function unordered(params) {
+  function unordered() {
     setTimeout(A, 2000);
     setTimeout(B, 3000);
     setTimeout(C, 1000);
@@ -65,5 +63,3 @@ const isOrdered = Boolean(process.argv[3]);
 (arg === 1) ? exampleA() : exampleB(isOrdered);
 // exampleA();
 // exampleB(false);
-
-

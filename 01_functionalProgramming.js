@@ -9,14 +9,11 @@ class Person {
   }
 }
 
-
-
 function happyFunkyBirthday(Obj) {
   let newObj = { ...Obj };
   newObj.age++;
   return newObj;
 }
-
 
 let sally = new Person('Sally', 25);
 sally.happyBirthday();
@@ -30,6 +27,3 @@ const Jose = {
 
 console.log(happyFunkyBirthday(Jose));
 console.log(Jose);
-
-
-

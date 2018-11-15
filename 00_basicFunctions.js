@@ -1,4 +1,3 @@
-
 // function declaration
 function func(a, b) {
   return a + b;
@@ -22,9 +21,3 @@ console.log (
     return a + b;
   })(2,9)
 );
-
-
-
-
-
-

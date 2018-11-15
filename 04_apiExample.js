@@ -8,7 +8,6 @@ function fetchData() {
     .then(json => console.log(json));
 }
 
-
 function fetchWithCallback(callback) {
 
   https.get(url, function (res) {
