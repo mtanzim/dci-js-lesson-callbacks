@@ -8,7 +8,7 @@ mtanzim@gmail.com
 
 ## Lecture Notes
 
-Please find notes [here]().
+Please find notes [here](https://drive.google.com/open?id=1QdgbWNE1Huwy-tj58ZUWNWO8s2Ro97e2).
 
 ## Exercises
 
