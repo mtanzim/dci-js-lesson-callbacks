@@ -14,5 +14,5 @@ Please find notes [here](https://drive.google.com/open?id=1QdgbWNE1Huwy-tj58ZUWN
 
 - [Simple API Example with callbacks](https://mtanzim.github.io/dci-js-lesson-callbacks/)
   - [API Link](https://jsonplaceholder.typicode.com)
-- [React Weather App] (https://mtanzim.github.io/react-weather-app/)
+- [React Weather App](https://mtanzim.github.io/react-weather-app/)
   - [API Link](https://openweathermap.org/)
